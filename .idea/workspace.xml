@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea600240-4dec-4fbf-88e4-f1b0d0f89c31" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Testiranje-softvera" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DaniloCerovic87"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fbe7d0f3-9f5a-4b29-8bbf-0bab3eb0a6b8" />
+        <option name="url" value="https://github.com/DaniloCerovic87/Testiranje-softvera.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ZxVJjkhentENI0DYKlNPHzViC5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Ispiti/OOP/Seminarski/Biblioteka-Testiranje",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/Ispiti/OOP/Biblioteka/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ispiti\OOP\Biblioteka-Testiranje\src\test\java\biblioteka\testng" />
+      <recent name="E:\Ispiti\OOP\Biblioteka\src\main\java\org\biblioteka" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.biblioteka" />
+      <recent name="org.biblioteka.interfejs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="biblioteka.junit" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -Dmaven.plugin.validation=verbose ... " />
+      <command value="mvn clean install -Dmaven.plugin.validation=VERBOSE" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/Ispiti/OOP/Biblioteka-Testiranje/src/test/java/biblioteka/testng/testng_classes.xml">
+    <configuration name="AutorTest.testSetPrezime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Biblioteka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteka.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="biblioteka.junit" />
+      <option name="MAIN_CLASS_NAME" value="biblioteka.junit.AutorTest" />
+      <option name="METHOD_NAME" value="testSetPrezime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="junit in Biblioteka" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Biblioteka" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/biblioteka/junit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testng in Biblioteka" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Biblioteka" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/biblioteka/testng" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Biblioteka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="biblioteka.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="biblioteka.testng" />
+      <option name="MAIN_CLASS_NAME" value="biblioteka.testng.AutorTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/Ispiti/OOP/Biblioteka-Testiranje/src/test/java/biblioteka/testng/testng_classes.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Biblioteka" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/biblioteka/testng/testng_classes.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/Ispiti/OOP/Biblioteka-Testiranje/src/test/java/biblioteka/testng/testng_classes.xml" />
+        <item itemvalue="JUnit.testng in Biblioteka" />
+        <item itemvalue="JUnit.AutorTest.testSetPrezime" />
+        <item itemvalue="JUnit.junit in Biblioteka" />
+        <item itemvalue="TestNG.AutorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea600240-4dec-4fbf-88e4-f1b0d0f89c31" name="Changes" comment="" />
+      <created>1703363649908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703363649908</updated>
+      <workItem from="1703363650958" duration="9188000" />
+      <workItem from="1703410939144" duration="31468000" />
+      <workItem from="1703618319834" duration="14976000" />
+      <workItem from="1703759105085" duration="68000" />
+      <workItem from="1703759189334" duration="11498000" />
+      <workItem from="1705684440277" duration="30761000" />
+      <workItem from="1707566121698" duration="56000" />
+      <workItem from="1707724764371" duration="3507000" />
+      <workItem from="1708169166162" duration="1980000" />
+      <workItem from="1708172202084" duration="68000" />
+      <workItem from="1708172287937" duration="3658000" />
+      <workItem from="1708777020689" duration="11923000" />
+      <workItem from="1709466750198" duration="28000" />
+      <workItem from="1709467053932" duration="389000" />
+      <workItem from="1709467535998" duration="847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/biblioteka/BibliotekaTest.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/biblioteka/KnjigaTest.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/biblioteka/testng/BibliotekaTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="biblioteka.testng.KnjigaTest" memberName="k" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

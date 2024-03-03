@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Testiranje svih klasa">
+    <test name="Sve klase">
+        <classes>
+            <class name="biblioteka.testng.AutorTest">
+            </class>
+            <class name="biblioteka.testng.BibliotekaTest">
+            </class>
+            <class name="biblioteka.testng.KnjigaTest">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="Testiranje seter metoda autora i svih metoda knjige osim konstruktora">
+    <test name="Odabrane metode">
+        <classes>
+            <class name="biblioteka.testng.AutorTest">
+                <methods>
+                    <include name="testSetIme"/>
+                    <include name="testSetPrezime"/>
+                </methods>
+            </class>
+            <class name="biblioteka.testng.KnjigaTest">
+                <methods>
+                    <exclude name="testKnjigaDefaultniKonstruktor"/>
+                    <exclude name="testKnjigaParametrizovaniKonstruktor"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
