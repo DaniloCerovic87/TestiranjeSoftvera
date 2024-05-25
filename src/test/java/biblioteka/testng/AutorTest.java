@@ -41,25 +41,25 @@ public class AutorTest {
         assertEquals(a.getPrezime(), "Peric");
     }
 
-    @Test
+    @Test(priority = 4)
     void testSetIme() {
         a.setIme("Mika");
 
         assertEquals( a.getIme(), "Mika");
     }
 
-    @Test(expectedExceptions = NullPointerException.class)
+    @Test(priority = 3, expectedExceptions = NullPointerException.class)
     void testSetImeNull() {
         a.setIme(null);
     }
 
-    @Test(expectedExceptions = IllegalArgumentException.class, expectedExceptionsMessageRegExp = "Ime ne sme biti prazno")
+    @Test(priority = 2, expectedExceptions = IllegalArgumentException.class, expectedExceptionsMessageRegExp = "Ime ne sme biti prazno")
     void testSetImePrazanString() {
         a.setIme("");
     }
 
 
-    @Test
+    @Test(priority = 1)
     void testSetPrezime() {
         a.setPrezime("Mikic");
 
